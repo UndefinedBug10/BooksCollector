@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BooksCollector</string>
+    <string name="add_book">Add Book</string>
+    <string name="add">Add</string>
+    <string name="book_name">Book Name</string>
+    <string name="author_name">Author Name</string>
+    <string name="image_link">Image Link</string>
+    <string name="stack_is_empty">Stack is empty :(</string>
+</resources>
